@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Code | My Octopress Blog hosted by github]]></title>
+  <link href="http://yetie.github.com/blog/categories/code/atom.xml" rel="self"/>
+  <link href="http://yetie.github.com/"/>
+  <updated>2013-03-30T11:16:43+08:00</updated>
+  <id>http://yetie.github.com/</id>
+  <author>
+    <name><![CDATA[Github Blogger]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[code style]]></title>
+    <link href="http://yetie.github.com/blog/2013/03/30/code-style/"/>
+    <updated>2013-03-30T11:09:00+08:00</updated>
+    <id>http://yetie.github.com/blog/2013/03/30/code-style</id>
+    <content type="html"><![CDATA[<h2>Backtick Code Blocks</h2>
+
+<h4>Example (plain)</h4>
+
+<p><code>
+$ sudo make me a sandwich
+</code></p>
+
+<h4>Example With Syntax Highlighting a Caption and Link</h4>
+
+<p>``` ruby Discover if a number is prime http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/ Source Article
+class Fixnum
+  def prime?</p>
+
+<pre><code>('1' * self) !~ /^1?$|^(11+?)\1+$/
+</code></pre>
+
+<p>  end
+end
+```</p>
+]]></content>
+  </entry>
+  
+</feed>

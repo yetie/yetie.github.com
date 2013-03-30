@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog hosted by github]]></title>
   <link href="http://yetie.github.com/atom.xml" rel="self"/>
   <link href="http://yetie.github.com/"/>
-  <updated>2013-03-30T10:29:34+08:00</updated>
+  <updated>2013-03-30T11:16:43+08:00</updated>
   <id>http://yetie.github.com/</id>
   <author>
     <name><![CDATA[Github Blogger]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[code style]]></title>
+    <link href="http://yetie.github.com/blog/2013/03/30/code-style/"/>
+    <updated>2013-03-30T11:09:00+08:00</updated>
+    <id>http://yetie.github.com/blog/2013/03/30/code-style</id>
+    <content type="html"><![CDATA[<h2>Backtick Code Blocks</h2>
+
+<h4>Example (plain)</h4>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ sudo make me a sandwich</span></code></pre></td></tr></table></div></figure>
+
+
+<h4>Example With Syntax Highlighting a Caption and Link</h4>
+
+<figure class='code'><figcaption><span>Discover if a number is prime</span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
+</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New blog new world!]]></title>
