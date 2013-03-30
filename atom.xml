@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog hosted by github]]></title>
   <link href="http://yetie.github.com/atom.xml" rel="self"/>
   <link href="http://yetie.github.com/"/>
-  <updated>2013-03-30T09:39:45+08:00</updated>
+  <updated>2013-03-30T10:03:33+08:00</updated>
   <id>http://yetie.github.com/</id>
   <author>
     <name><![CDATA[Github Blogger]]></name>
@@ -12,5 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New blog new world!]]></title>
+    <link href="http://yetie.github.com/blog/2013/03/30/new-blog-new-world/"/>
+    <updated>2013-03-30T09:59:00+08:00</updated>
+    <id>http://yetie.github.com/blog/2013/03/30/new-blog-new-world</id>
+    <content type="html"><![CDATA[<h2>What is Octopress?</h2>
+
+<p>Octopress is <a href="https://github.com/mojombo/jekyll">Jekyll</a> blogging at its finest.</p>
+
+<ol>
+<li><strong>Octopress sports a clean responsive theme</strong> written in semantic HTML5, focused on readability and friendliness toward mobile devices.</li>
+<li><strong>Code blogging is easy and beautiful.</strong> Embed code (with <a href="http://ethanschoonover.com/solarized">Solarized</a> styling) in your posts from gists, jsFiddle or from your filesystem.</li>
+<li><strong>Third party integration is simple</strong> with built-in support for Pinboard, Delicious, GitHub Repositories, Disqus Comments and Google Analytics.</li>
+<li><strong>It&#8217;s easy to use.</strong> A collection of rake tasks simplifies development and makes deploying a cinch.</li>
+<li><strong>Ships with great plug-ins</strong> some original and others from the Jekyll community &mdash; tested and improved.</li>
+</ol>
+
+
+<h2>Documentation</h2>
+
+<p>Check out <a href="http://octopress.org/docs">Octopress.org</a> for guides and documentation.</p>
+
+<h2>Contributing</h2>
+
+<p><a href="https://travis-ci.org/imathis/octopress"><img src="https://travis-ci.org/imathis/octopress.png?branch=master" alt="Build Status" /></a></p>
+
+<p>We love to see people contributing to Octopress, whether it&#8217;s a bug report, feature suggestion or a pull request. At the moment, we try to keep the core slick and lean, focusing on basic blogging needs, so some of your suggestions might not find their way into Octopress. For those ideas, we started a <a href="https://github.com/imathis/octopress/wiki/3rd-party-plugins">list of 3rd party plug-ins</a>, where you can link your own Octopress plug-in repositories. For the future, we&#8217;re thinking about ways to easier add them them into our main releases.</p>
+
+<h2>License</h2>
+
+<p>(The MIT License)</p>
+
+<p>Copyright © 2009-2013 Brandon Mathis</p>
+
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+
+<p>THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+
+<h4>If you want to be awesome.</h4>
+
+<ul>
+<li>Proudly display the &#8216;Powered by Octopress&#8217; credit in the footer.</li>
+<li>Add your site to the Wiki so we can watch the community grow.</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
